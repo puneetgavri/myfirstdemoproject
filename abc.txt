@@ -1,2 +1,2 @@
 hello
-a line from branch A
+a line from braches A xyz
